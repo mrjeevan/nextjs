@@ -1,39 +1,39 @@
-export default  [
+export default [
     {
-        "id": "ge54ygh45h451",
-        "name": "ICOM IC-99999",
-        "images": [
+        id: "ge54ygh45h451",
+        name: "ICOM IC-99999",
+        images: [
             "https://cdn-images-1.medium.com/max/1200/1*7QHjkRM-RjZjGxJUhCrK_Q.png",
             "https://cdn-images-1.medium.com/max/1200/1*7QHjkRM-RjZjGxJUhCrK_Q.png",
             "https://cdn-images-1.medium.com/max/1200/1*7QHjkRM-RjZjGxJUhCrK_Q.png"
         ],
-        "description": "New design Qual Band VHF UHF Walkie Talkie long distance car radio tour guide system portable CB handheld intercom JM-8900R",
-        "price": "30,000",
-        "highlights": [
+        description: "New design Qual Band VHF UHF Walkie Talkie long distance car radio tour guide system portable CB handheld intercom JM-8900R",
+        price: "30,000",
+        highlights: [
             "awegawg",
             "awegawg",
             "awegawg",
             "awegawg"
         ],
-        "tags": [
+        tags: [
             "uhf",
             "vhf",
             "interface"
         ],
-        "Specification":{
-            "BaseMaterial" : "",
-            "Thickness" : "",
-            "Length"  : "",
-            "Height" : "",
-            "Width"  : ""
+        Specification: {
+            "BaseMaterial": "",
+            "Thickness": "",
+            "Length": "",
+            "Height": "",
+            "Width": ""
         },
-        "Accesories": [
+        Accesories: [
             "Hand Microphone",
             "Fuses",
             "Mounting bracket & Hardware",
             "Power cable "
         ],
-        "ProductFeature": [
+        ProductFeature: [
             "Transmit Power 50 WATT VHF    40 WATT UHF ",
             "Bands VHF  136 - 174 Mhz  , UHF 400 - 480 Mhz ",
             "Receives  HF 25-33 Mhz  ,    AM/ FM 47 - 54 Mhz  ( amateur bands ) ",
@@ -48,43 +48,43 @@ export default  [
             "12 V  operated   Tx current  8-10 ampere , ",
             "weight 1.2 KG "
         ],
-        "status" : "OutOfStock"
+        status: "OutOfStock"
     },
     {
-        "id": "ge54ygh45h452",
-        "name": "ICOM IC-99999",
-        "images": [
+        id: "ge54ygh45h452",
+        name: "ICOM IC-99999",
+        images: [
             "https://cdn-images-1.medium.com/max/1200/1*7QHjkRM-RjZjGxJUhCrK_Q.png",
             "https://cdn-images-1.medium.com/max/1200/1*7QHjkRM-RjZjGxJUhCrK_Q.png",
             "https://cdn-images-1.medium.com/max/1200/1*7QHjkRM-RjZjGxJUhCrK_Q.png"
         ],
-        "description": "New design Qual Band VHF UHF Walkie Talkie long distance car radio tour guide system portable CB handheld intercom JM-8900R",
-        "price": "30,000",
-        "highlights": [
+        description: "New design Qual Band VHF UHF Walkie Talkie long distance car radio tour guide system portable CB handheld intercom JM-8900R",
+        price: "30,000",
+        highlights: [
             "awegawg",
             "awegawg",
             "awegawg",
             "awegawg"
         ],
-        "tags": [
+        tags: [
             "uhf",
             "vhf",
             "interface"
         ],
-        "Specification":{
-            "BaseMaterial" : "",
-            "Thickness" : "",
-            "Length"  : "",
-            "Height" : "",
-            "Width"  : ""
+        Specification: {
+            "BaseMaterial": "",
+            "Thickness": "",
+            "Length": "",
+            "Height": "",
+            "Width": ""
         },
-        "Accesories": [
+        Accesories: [
             "Hand Microphone",
             "Fuses",
             "Mounting bracket & Hardware",
             "Power cable "
         ],
-        "ProductFeature": [
+        ProductFeature: [
             "Transmit Power 50 WATT VHF    40 WATT UHF ",
             "Bands VHF  136 - 174 Mhz  , UHF 400 - 480 Mhz ",
             "Receives  HF 25-33 Mhz  ,    AM/ FM 47 - 54 Mhz  ( amateur bands ) ",
@@ -99,43 +99,43 @@ export default  [
             "12 V  operated   Tx current  8-10 ampere , ",
             "weight 1.2 KG "
         ],
-        "status" : "OutOfStock"
+        status: "OutOfStock"
     },
     {
-        "id": "ge54ygh45h453",
-        "name": "ICOM IC-99999",
-        "images": [
+        id: "ge54ygh45h453",
+        name: "ICOM IC-99999",
+        images: [
             "https://cdn-images-1.medium.com/max/1200/1*7QHjkRM-RjZjGxJUhCrK_Q.png",
             "https://cdn-images-1.medium.com/max/1200/1*7QHjkRM-RjZjGxJUhCrK_Q.png",
             "https://cdn-images-1.medium.com/max/1200/1*7QHjkRM-RjZjGxJUhCrK_Q.png"
         ],
-        "description": "New design Qual Band VHF UHF Walkie Talkie long distance car radio tour guide system portable CB handheld intercom JM-8900R",
-        "price": "30,000",
-        "highlights": [
+        description: "New design Qual Band VHF UHF Walkie Talkie long distance car radio tour guide system portable CB handheld intercom JM-8900R",
+        price: "30,000",
+        highlights: [
             "awegawg",
             "awegawg",
             "awegawg",
             "awegawg"
         ],
-        "tags": [
+        tags: [
             "uhf",
             "vhf",
             "interface"
         ],
-        "Specification":{
-            "BaseMaterial" : "",
-            "Thickness" : "",
-            "Length"  : "",
-            "Height" : "",
-            "Width"  : ""
+        Specification: {
+            "BaseMaterial": "",
+            "Thickness": "",
+            "Length": "",
+            "Height": "",
+            "Width": ""
         },
-        "Accesories": [
+        Accesories: [
             "Hand Microphone",
             "Fuses",
             "Mounting bracket & Hardware",
             "Power cable "
         ],
-        "ProductFeature": [
+        ProductFeature: [
             "Transmit Power 50 WATT VHF    40 WATT UHF ",
             "Bands VHF  136 - 174 Mhz  , UHF 400 - 480 Mhz ",
             "Receives  HF 25-33 Mhz  ,    AM/ FM 47 - 54 Mhz  ( amateur bands ) ",
@@ -150,6 +150,6 @@ export default  [
             "12 V  operated   Tx current  8-10 ampere , ",
             "weight 1.2 KG "
         ],
-        "status" : "OutOfStock"
+        status: "OutOfStock"
     }
 ]

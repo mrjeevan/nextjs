@@ -1,9 +1,9 @@
 import { IProduct } from '../../Interfaces/products'
+import {products} from "../../requestsHandler/products"
 import Card from '../../components/Card'
 import { Grid } from '@mui/joy'
 
 type Props = { productsData: IProduct[] }
-
 export default function index({ productsData }: Props) {
     console.log(productsData)
     return (
@@ -22,12 +22,8 @@ export default function index({ productsData }: Props) {
         </div>
     )
 }
-
 export async function getServerSideProps() {
-
-    const response = await fetch("https://original-test-git-main-mrjeevan.vercel.app/api/products")
-    let responseData = await response.json()
-
+    let responseData = await products()
     return {
         props: { productsData: responseData }, // will be passed to the page component as props
     }
