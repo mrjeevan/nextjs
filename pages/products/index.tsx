@@ -25,7 +25,7 @@ export default function index({ productsData }: Props) {
 
 export async function getServerSideProps() {
 
-    const response = await fetch("http://localhost:3000/api/products")
+    const response = await fetch("https://original-test-git-main-mrjeevan.vercel.app/api/products")
     let responseData = await response.json()
 
     return {
